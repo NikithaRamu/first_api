@@ -1,20 +1,63 @@
 {
     "posts": [
-      {
-        "id": 1,
-        "title": "hello"
-      }
+        {
+            "id": 1,
+            "title": "hello"
+        }
     ],
     "profile": {
-      "name": "typicode"
+        "name": "typicode"
     },
-    "articles":[
+    "articles": [
         {
-  
-           "author":null,
-           "title":"Coronavirus LIVE Updates: Karnataka health minister ..sts positive; state has reported 1,72,102 cases so far - Firstpost",
-            "urlToImage":"https://images.firstpost.com/wp-content/uploads/large_file_plugin/2020/06/1593074238_covid19ap.jpeg"
-          }
-     ]
-  
-  }
+            "author": null,
+            "title": "Coronavirus LIVE Updates: Karnataka health minister ..sts positive; state has reported 1,72,102 cases so far - Firstpost",
+            "urlToImage": "https://images.firstpost.com/wp-content/uploads/large_file_plugin/2020/06/1593074238_covid19ap.jpeg"
+        },
+        {
+            "author": "Tribune India",
+            "title": "NASA probe prepares for first asteroid sample collection attempt - The Tribune",
+            "urlToImage": "https://cmsimages.tribuneindia.com/gallary_content/2020/8/2020_8$largeimg_1437290696.jpg"
+        },
+        {
+            "author": "TIMESOFINDIA.COM",
+            "title": "Sushant Singh Rajput fans refuse to believe that he wrote the gratitude note shared by Rhea Chakraborty - Times of India",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-77446151,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75,imgsize-526221/77446151.jpg"
+        },
+        {
+            "author": "Vishwa Mohan",
+            "title": "PM Modi launches Rs 1 lakh crore agri-infra fund, says move to enhance India's ability to compete globall - Times of India",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-77445979,width-1070,height-580,imgsize-141249,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg"
+        },
+        {
+            "author": "Peter",
+            "title": "Weekly poll: Did the Galaxy Note20, Note20 Ultra and Z Fold2 live up to expectations? - GSMArena.com news - GSMArena.com",
+            "urlToImage": "https://fdn.gsmarena.com/imgroot/news/20/08/weekly-poll-galaxy-note20-z-fold2/-476x249w4/gsmarena_000.jpg"
+        },
+        {
+            "author": "Amitabh Sinha",
+            "title": "India coronavirus numbers explained: Highest number of daily Covid-19 cases in the world - The Indian Express",
+            "urlToImage": "https://images.indianexpress.com/2020/08/Amit-Mehra-Delhi-Testing-Amitabh.jpg"
+        },
+        {
+            "author": "KC Archana",
+            "title": "Scientists Finally Solve Mystery Surrounding Bizzare Reptile That Lived 242 Million Years Ago - India Times",
+            "urlToImage": "https://im.indiatimes.in/content/2020/Aug/Bizarre_5f2fc6d69d0d3.jpg"
+        },
+        {
+            "author": "News18",
+            "title": "Idukki Landslide Death Toll Rises to 42 as 16 More Bodies Recovered, Search Operation Continues - News18",
+            "urlToImage": "https://images.news18.com/ibnlive/uploads/2020/08/1596798934_kerala-flood-monsoon-idukki-river.jpg"
+        },
+        {
+            "author": "Hemani Sheth",
+            "title": "Asymptomatic Covid-19 cases could hold the key to ending pandemic: Report - BusinessLine",
+            "urlToImage": "https://www.thehindubusinessline.com/blink/know/obnmij/article32292823.ece/ALTERNATES/LANDSCAPE_615/BLinkiStock-1209212639"
+        },
+        {
+            "author": "Press Trust of India | Posted by Shivani Kumar",
+            "title": "Covid-19: Scientists develop low-cost method to test mask effectiveness against viral droplets - Hindustan Times",
+            "urlToImage": "https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2020/08/09/Pictures/free-covid-19-swab-testing-in-manila_ee588cfc-da27-11ea-a162-aa5ffaaa8aa4.jpg"
+        }
+    ]
+}
