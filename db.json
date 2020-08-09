@@ -8,4 +8,267 @@
     "profile": {
       "name": "typicode"
     }
+    "articles":[
+        {
+           "source":{
+              "id":null,
+              "name":"Firstpost"
+           },
+           "author":null,
+           "title":"Coronavirus LIVE Updates: Karnataka health minister ..sts positive; state has reported 1,72,102 cases so far - Firstpost",
+           "description":"Coronavirus LIVE Updates: Karnataka recorded 71,78 new cases on Saturday, while 93 deaths took the toll to 3,091. Chief Minister BS Yediyurappa is also undergoing treatment after testing positive\r\n\r\n Watch LIVE News, Latest Updates, Live blog, Highlights and …",
+           "url":"https://www.firstpost.com/health/coronavirus-live-updates-vijayawada-fire-amit-shah-covid-19-india-today-tick-borne-virus-corona-positive-cases-death-delhi-mumbai-maharashtra-lockdown-vaccine-latest-news-corona-kavach-policy-8686771.html",
+           "urlToImage":"https://images.firstpost.com/wp-content/uploads/large_file_plugin/2020/06/1593074238_covid19ap.jpeg",
+           "publishedAt":"2020-08-09T12:28:36Z",
+           "content":"Coronavirus LIVE Updates: Karnataka recorded 71,78 new cases on Saturday, while 93 deaths took the toll to 3,091. Chief Minister BS Yediyurappa is also undergoing treatment after testing positive\r\nCo… [+5267 chars]"
+        },
+        {
+           "source":{
+              "id":null,
+              "name":"The Tribune India"
+           },
+           "author":"Tribune India",
+           "title":"NASA probe prepares for first asteroid sample collection attempt - The Tribune",
+           "description":"OSIRIS-REx mission on asteroid Bennu",
+           "url":"https://www.tribuneindia.com/news/schools/nasa-probe-prepares-for-first-asteroid-sample-collection-attempt-124274",
+           "urlToImage":"https://cmsimages.tribuneindia.com/gallary_content/2020/8/2020_8$largeimg_1437290696.jpg",
+           "publishedAt":"2020-08-09T12:25:00Z",
+           "content":"Washington, August 9\r\nNASA's first asteroid sampling spacecraft is now just one rehearsal away from grabbing a sample from asteroid Bennu's surface.\r\nThe OSIRIS-REx mission will conduct a final rehea… [+1585 chars]"
+        },
+        {
+           "source":{
+              "id":"the-times-of-india",
+              "name":"The Times of India"
+           },
+           "author":"TIMESOFINDIA.COM",
+           "title":"Sushant Singh Rajput fans refuse to believe that he wrote the gratitude note shared by Rhea Chakraborty - Times of India",
+           "description":"Rhea Chakraborty recently shared a handwritten note by Sushant Singh Rajput and a flask – stating that it is the on",
+           "url":"https://timesofindia.indiatimes.com/entertainment/hindi/bollywood/news/sushant-singh-rajput-fans-refuse-to-believe-that-he-wrote-the-gratitude-note-shared-by-rhea-chakraborty/articleshow/77446151.cms",
+           "urlToImage":"https://static.toiimg.com/thumb/msid-77446151,width-1070,height-580,overlay-toi_sw,pt-32,y_pad-40,resizemode-75,imgsize-526221/77446151.jpg",
+           "publishedAt":"2020-08-09T11:41:00Z",
+           "content":null
+        },
+        {
+           "source":{
+              "id":"the-times-of-india",
+              "name":"The Times of India"
+           },
+           "author":"Vishwa Mohan",
+           "title":"PM Modi launches Rs 1 lakh crore agri-infra fund, says move to enhance India's ability to compete globall - Times of India",
+           "description":"India News: NEW DELHI: In a move which may help farmers get better price of their produce at farm gates, Prime Minister Narendra Modi on Sunday launched Rs 1 lakh.",
+           "url":"https://timesofindia.indiatimes.com/india/pm-modi-launches-rs-1-lakh-crore-agri-infra-fund-says-move-to-enhance-indias-ability-to-compete-globally/articleshow/77445972.cms",
+           "urlToImage":"https://static.toiimg.com/thumb/msid-77445979,width-1070,height-580,imgsize-141249,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+           "publishedAt":"2020-08-09T11:25:00Z",
+           "content":"PM Modi launches Rs 1 lakh crore agri-infra fund, says move to enhance India's ability to compete globally\r\n<ul><li>News</li>\r\n<li>India News</li>\r\n<li>PM Modi launches Rs 1 lakh crore agri-infra fun… [+68 chars]"
+        },
+        {
+           "source":{
+              "id":null,
+              "name":"GSMArena.com"
+           },
+           "author":"Peter",
+           "title":"Weekly poll: Did the Galaxy Note20, Note20 Ultra and Z Fold2 live up to expectations? - GSMArena.com news - GSMArena.com",
+           "description":"The Notes are the unrivaled stylus champions and the Fold2 brings key improvements, but are there weak spots in the new premium lineup?",
+           "url":"https://www.gsmarena.com/weekly_poll_what_do_you_think_about_the_galaxy_note20_note20_ultra_and_z_fold2-news-44639.php",
+           "urlToImage":"https://fdn.gsmarena.com/imgroot/news/20/08/weekly-poll-galaxy-note20-z-fold2/-476x249w4/gsmarena_000.jpg",
+           "publishedAt":"2020-08-09T11:22:01Z",
+           "content":"It would be a cliche to call the Galaxy Note20 Ultra the best Samsung smartphone ever even if its probably true. But its strange that we cant call the vanilla Note20 the second best, its not even clo… [+2284 chars]"
+        },
+        {
+           "source":{
+              "id":null,
+              "name":"The Indian Express"
+           },
+           "author":"Amitabh Sinha",
+           "title":"India coronavirus numbers explained: Highest number of daily Covid-19 cases in the world - The Indian Express",
+           "description":"India Coronavirus Cases Numbers: The United States and Brazil, two countries that have greater number of people infected by the virus till now, have been finding fewer number of new cases every day during this period, while India’s case numbers have been incr…",
+           "url":"https://indianexpress.com/article/explained/india-covid-19-numbers-tracker-august-9-6547114/",
+           "urlToImage":"https://images.indianexpress.com/2020/08/Amit-Mehra-Delhi-Testing-Amitabh.jpg",
+           "publishedAt":"2020-08-09T11:17:10Z",
+           "content":"Written by Amitabh Sinha\r\n, Edited by Explained Desk | Pune | \r\nUpdated: August 9, 2020 5:17:10 pm\r\nA health worker relaxes between collecting samples in Shakti Nagar in New Delhi (Express Photo/Amit… [+4396 chars]"
+        },
+        {
+           "source":{
+              "id":"the-times-of-india",
+              "name":"The Times of India"
+           },
+           "author":"KC Archana",
+           "title":"Scientists Finally Solve Mystery Surrounding Bizzare Reptile That Lived 242 Million Years Ago - India Times",
+           "description":"A reptile species, which lived during the Middle Triassic period about 242 million years ago, named Tanystropheus, has baffled scientists ever since its fossil was discovered back in 1852.                        Current BiologyRecently, in a new study, scient…",
+           "url":"https://www.indiatimes.com/trending/wtf/mystery-solved-ancient-reptile-242-million-years-519927.html",
+           "urlToImage":"https://im.indiatimes.in/content/2020/Aug/Bizarre_5f2fc6d69d0d3.jpg",
+           "publishedAt":"2020-08-09T11:07:17Z",
+           "content":"A reptile species, which lived during the Middle Triassic period about 242 million years ago, named Tanystropheus, has baffled scientists ever since its fossil was discovered back in 1852.\r\nCurrent B… [+2814 chars]"
+        },
+        {
+           "source":{
+              "id":null,
+              "name":"News18"
+           },
+           "author":"News18",
+           "title":"Idukki Landslide Death Toll Rises to 42 as 16 More Bodies Recovered, Search Operation Continues - News18",
+           "description":"According to the government, 78 people were staying at the spot where the tragedy occurred. While 12 were rescued, 42 bodies were found. Officials said efforts were on to find the rest.",
+           "url":"https://www.news18.com/news/india/idukki-landslide-death-toll-rises-to-42-after-recovery-of-6-bodies-search-op-continues-2771507.html",
+           "urlToImage":"https://images.news18.com/ibnlive/uploads/2020/08/1596798934_kerala-flood-monsoon-idukki-river.jpg",
+           "publishedAt":"2020-08-09T10:54:00Z",
+           "content":"The death toll in the massive landslide that destroyed a row of 20 houses of tea estate workers in the high range Idukki district of Kerala rose to 42 on Sunday evening after 16 more bodies were retr… [+2498 chars]"
+        },
+        {
+           "source":{
+              "id":null,
+              "name":"BusinessLine"
+           },
+           "author":"Hemani Sheth",
+           "title":"Asymptomatic Covid-19 cases could hold the key to ending pandemic: Report - BusinessLine",
+           "description":"Asymptomatic Covid-19 cases could be the key to understanding how a larger population can develop immunity against the virus, according to a report by the Washington Post.The report cites the research",
+           "url":"https://www.thehindubusinessline.com/news/science/asymptomatic-covid-19-cases-could-hold-the-key-to-ending-pandemic-report/article32309103.ece",
+           "urlToImage":"https://www.thehindubusinessline.com/blink/know/obnmij/article32292823.ece/ALTERNATES/LANDSCAPE_615/BLinkiStock-1209212639",
+           "publishedAt":"2020-08-09T10:12:58Z",
+           "content":"Asymptomatic Covid-19 cases could be the key to understanding how a larger population can develop immunity against the virus, according to a report by the Washington Post.\r\nThe report cites the resea… [+3607 chars]"
+        },
+        {
+           "source":{
+              "id":null,
+              "name":"Hindustan Times"
+           },
+           "author":"Press Trust of India | Posted by Shivani Kumar",
+           "title":"Covid-19: Scientists develop low-cost method to test mask effectiveness against viral droplets - Hindustan Times",
+           "description":"The technique, described in the journal Science Advances, is still in the early stages, and has so far only been tested in a small group of people, the scientists said.",
+           "url":"https://www.hindustantimes.com/science/covid-19-scientists-develop-low-cost-method-to-test-mask-effectiveness-against-viral-droplets/story-efXPWyGrys3dMQX9oY2FXJ.html",
+           "urlToImage":"https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2020/08/09/Pictures/free-covid-19-swab-testing-in-manila_ee588cfc-da27-11ea-a162-aa5ffaaa8aa4.jpg",
+           "publishedAt":"2020-08-09T10:07:00Z",
+           "content":"Using widely available tools, scientists have developed a simple method to visualise how effectively different types of masks prevent the spread of droplets that could contain novel coronavirus parti… [+2563 chars]"
+        },
+        {
+           "source":{
+              "id":null,
+              "name":"India.com"
+           },
+           "author":"Zee Media Bureau",
+           "title":"No new COVID-19 test on Union Home Minister Amit Shah, says MHA; BJP MP Manoj Tiwari deletes tweet - Zee News",
+           "description":"The Ministry of Home Affairs on Sunday (August 9) confirmed that no fresh test for the coronavirus COVID-19 has been conducted on Union Home Minister Amit Shah since last week, sources said.",
+           "url":"https://zeenews.india.com/india/no-new-covid-19-test-on-union-home-minister-amit-shah-says-mha-bjp-mp-manoj-tiwari-deletes-tweet-2301650.html",
+           "urlToImage":"https://english.cdn.zeenews.com/sites/default/files/2020/08/09/877967-shha-use.jpg",
+           "publishedAt":"2020-08-09T10:06:46Z",
+           "content":"The Ministry of Home Affairs on Sunday (August 9) confirmed that no fresh test for the coronavirus COVID-19 has been conducted on Union Home Minister Amit Shah since last week, sources said.\r\nThe MHA… [+1305 chars]"
+        },
+        {
+           "source":{
+              "id":null,
+              "name":"Livemint"
+           },
+           "author":"PTI",
+           "title":"Reliance has 15-year plan to convert itself into a new energy company - Livemint",
+           "description":"While the oil-to-chemical conglomerate has in recent times seen focus on consumer business, Reliance's core oil-to-chemical (O2C) business is well placed to generate sustained free cash flow, BofA Securities said",
+           "url":"https://www.livemint.com/companies/news/reliance-industries-has-15-year-plan-to-convert-itself-into-a-new-energy-company-11596964748589.html",
+           "urlToImage":"https://images.livemint.com/img/2020/08/09/600x338/2019-08-03T140547Z_1_LYNXNPEF720AR_RTROPTP_3_RELIANCE-RETAIL-AMAZON-COM-STAKE_1564933397215_1596965181574.JPG",
+           "publishedAt":"2020-08-09T09:28:58Z",
+           "content":"NEW DELHI :\r\nBillionaire Mukesh Ambani's Reliance Industries Ltd has a 15-year vision to build itself as a new energy company that aims to recycle CO2, create value from plastic waste and has an opti… [+4514 chars]"
+        },
+        {
+           "source":{
+              "id":null,
+              "name":"The Indian Express"
+           },
+           "author":"Tech Desk",
+           "title":"This massive sunspot turning towards Earth can be bad news - The Indian Express",
+           "description":"Recently, scientists developed a new model that can successfully predict seven of the Sun’s biggest flares from the last solar cycle, out of a set of nine with the help of NASA’s Solar Dynamics Observatory",
+           "url":"https://indianexpress.com/article/technology/science/sunspot-towards-earth-solar-flares-effect-communications-6547028/",
+           "urlToImage":"https://images.indianexpress.com/2020/08/solarflares-nasa.jpg",
+           "publishedAt":"2020-08-09T09:05:24Z",
+           "content":"By: Tech Desk | \r\nPublished: August 9, 2020 2:35:24 pm\r\nSolar flares are the result of changes in magnetic fields on the sunspots that cause a huge explosion (Source: NASA)If you think the year 2020 … [+2532 chars]"
+        },
+        {
+           "source":{
+              "id":null,
+              "name":"Livemint"
+           },
+           "author":"ANI",
+           "title":"Vijayawada hotel fire: Death toll rises to 11; ₹50 lakh ex-gratia to victims' families - Livemint",
+           "description":"There were 43 people in the hotel that was turned into a Covid-19 facility, of whom 30 were Covid-19 patients, says Andhra Health Minister",
+           "url":"https://www.livemint.com/news/india/vijayawada-hotel-fire-death-toll-rises-to-11-rs-50-lakh-ex-gratia-to-victims-families-11596962353604.html",
+           "urlToImage":"https://images.livemint.com/img/2020/08/09/600x338/PTI09-08-2020_000036A_1596962511725_1596962551390.jpg",
+           "publishedAt":"2020-08-09T08:45:09Z",
+           "content":"Vijayawada: Andhra Pradesh Home Minister Mekathoti Sucharita, Health Minister Alla Kali Krishna Srinivas and other ministers visited the site where a broke out at a hotel being used as a COVID-19 fac… [+1995 chars]"
+        },
+        {
+           "source":{
+              "id":null,
+              "name":"NDTV News"
+           },
+           "author":null,
+           "title":"Kashmir Doctor Dies Of Covid, Had Treated Infected Patients For 4 Months - NDTV",
+           "description":"A doctor at the forefront of the battle against the coronavirus in Kashmir died Sunday morning after contracting the virus that has infected over 21.5 lakh people across the country",
+           "url":"https://www.ndtv.com/india-news/kashmir-doctor-mohammd-ashraf-mir-dies-of-covid-had-treated-infected-patients-for-4-months-2276655",
+           "urlToImage":"https://c.ndtvimg.com/2020-08/cn66u9qg_kashmir-doctor_625x300_09_August_20.jpg",
+           "publishedAt":"2020-08-09T08:31:15Z",
+           "content":"Dr Mohammad Ashraf Mir had been treating Covid patients for over four months\r\nSrinagar: A doctor at the forefront of the battle against the coronavirus in Kashmir died Sunday morning after contractin… [+2200 chars]"
+        },
+        {
+           "source":{
+              "id":null,
+              "name":"Hindustan Times"
+           },
+           "author":"HT correspondent | Edited by Sparshita Saxena",
+           "title":"Bharat Forge welcomes India’s import ban on 101 defence items, calls it a ‘strategic step’ - Hindustan Times",
+           "description":"Chairman and managing director Baba Kalyani called the decision a strategic step that will “propel the Atmanirbhar Bharat narrative and bolster Indian defence equipment manufacturing industry”.",
+           "url":"https://www.hindustantimes.com/india-news/bharat-forge-welcomes-india-s-import-ban-on-101-defence-items-calls-it-a-strategic-step/story-1u3iphpaqjX55TioOdAAXJ.html",
+           "urlToImage":"https://www.hindustantimes.com/rf/image_size_960x540/HT/p2/2020/08/09/Pictures/_1b7b35fc-da16-11ea-8122-d3bbe1b049d5.jpg",
+           "publishedAt":"2020-08-09T08:03:00Z",
+           "content":"Baba Kalyani, chairman and managing director of Bharat Forge, India’s leading forging company, welcomed Defence Minister Rajnath Singh’s announcement of banning import 101 defence items in a bid to b… [+1380 chars]"
+        },
+        {
+           "source":{
+              "id":null,
+              "name":"NDTV News"
+           },
+           "author":null,
+           "title":"To Birthday Boy Mahesh Babu, With Love From Sitara, Gautham And Namrata Shirodkar - NDTV",
+           "description":"\"True love is how I experience it with you,\" wrote Namrata Shirodkar",
+           "url":"https://www.ndtv.com/entertainment/to-birthday-boy-mahesh-babu-with-love-from-sitara-gautham-and-namrata-shirodkar-2276637",
+           "urlToImage":"https://c.ndtvimg.com/2020-08/45tb5i2o_mahesh-babu_625x300_09_August_20.jpg",
+           "publishedAt":"2020-08-09T07:31:53Z",
+           "content":"Mahesh Babu with daughter Sitara. (courtesy: sitaraghattamaneni)\r\nHighlights\r\n<ul><li>\"My most favourite day of the year,\" wrote Sitara \r\n</li><li>\"You're the best dad ever. I love you so much,\" she … [+1998 chars]"
+        },
+        {
+           "source":{
+              "id":"the-times-of-india",
+              "name":"The Times of India"
+           },
+           "author":"Dwaipayan Datta",
+           "title":"Decks cleared for CSK camp in Chennai before team leaves for IPL in UAE - Times of India",
+           "description":"Cricket News: The Indian players who will take part in the Indian Premier League (IPL) in the United Arab Emirates (UAE) from September 19 are desperately short of",
+           "url":"https://timesofindia.indiatimes.com/sports/cricket/ipl/top-stories/decks-cleared-for-csk-camp-in-chennai-before-team-leaves-for-ipl-in-uae/articleshow/77442993.cms",
+           "urlToImage":"https://static.toiimg.com/thumb/msid-77443059,width-1070,height-580,imgsize-178654,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+           "publishedAt":"2020-08-09T06:42:00Z",
+           "content":null
+        },
+        {
+           "source":{
+              "id":null,
+              "name":"Zoom"
+           },
+           "author":"Moinak Pal",
+           "title":"Xiaomi Mi 10 Ultra super-flagship name confirmed; 120x zoom quad-cameras, Snapdragon 865 SoC, and more tipped - Times Now",
+           "description":"Xiaomi is launching the Mi 10 Ultra in global markets soon and now co-founder Lei Jun has confirmed the name on Weibo.",
+           "url":"https://www.timesnownews.com/technology-science/article/xiaomi-mi-10-ultra-super-flagship-name-confirmed-120x-zoom-quad-cameras-snapdragon-865-soc-and-more-tipped/634127",
+           "urlToImage":"https://imgk.timesnownews.com/story/iPhone_Xs_70_0.png?tr=w-560,h-292,fo-top",
+           "publishedAt":"2020-08-09T06:18:12Z",
+           "content":"<ul><li>Jun confirmed on Weibo that the Mi 10 Ultra will be the name of the phone in global market, and in China, the phone will be called the Mi 10 Supreme Commemorative Edition</li></ul>\r\n<ul><li>H… [+1685 chars]"
+        },
+        {
+           "source":{
+              "id":null,
+              "name":"Deccan Herald"
+           },
+           "author":"DH Web Desk",
+           "title":"People were immune to Covid-19 before it existed: Study - Deccan Herald",
+           "description":"Some degree of immune reactivity against SARS-CoV-2 already pre-existed in the general population, according to a paper published in Nature Reviews Immunology.",
+           "url":"https://www.deccanherald.com/science-and-environment/people-were-immune-to-covid-19-before-it-existed-study-871274.html",
+           "urlToImage":"https://www.deccanherald.com/sites/dh/files/articleimages/2020/08/09/download%20-%202020-08-09T112126.080-1596953532.png",
+           "publishedAt":"2020-08-09T05:51:51Z",
+           "content":"Some degree of immune reactivity against SARS-CoV-2 already pre-existed in the general population, according to a paper published in Nature Reviews Immunology.\r\nEarlier in May, another study by resea… [+2940 chars]"
+        }
+     ]
+  
   }
